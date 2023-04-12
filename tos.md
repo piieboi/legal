@@ -9,7 +9,7 @@ Payment and Fees: You agree to pay the fees for the Company's products and servi
 
 Intellectual Property: The Company owns all intellectual property rights in its products and services, including without limitation all software, code, text, graphics, images, and other materials. You agree not to copy, modify, distribute, or otherwise use the Company's intellectual property without its prior written consent.
 
-# Restrictions: You agree not to engage in any of the following activities:
+### Restrictions: You agree not to engage in any of the following activities:
 
 - Use the products or services for any unlawful purpose
 - Copy, modify, or distribute the Company's intellectual property
