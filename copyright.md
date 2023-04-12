@@ -40,4 +40,5 @@ Entire Agreement:
 Signed officially
 by: PieBoi from Code Hangover SP
 on: January 30th of the year 2023
- 
+
+Written by ChatGPT-3.5
