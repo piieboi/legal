@@ -49,3 +49,5 @@ Code Hangover SP (hereinafter "Company") is committed to protecting the privacy 
 > If you have any questions or concerns about this Privacy Policy, please contact Code Hangover at [hangover@sleepi.lol](mailto:hangover@sleepi.lol)
 
 ### This Privacy Policy is effective as of **January 30th, 2023**
+
+Written by ChatGPT-3.5
