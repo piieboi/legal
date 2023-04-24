@@ -1,4 +1,4 @@
-# COPYRIGHT AGREEMENT FOR MOUNTAIN SOFTWARE BY CODE HANGOVER
+# COPYRIGHT AGREEMENT FOR MOUNTAIN BY CODE HANGOVER
 
 This Copyright Agreement ("Agreement") is made between Code Hangover ("Company"), and the user of the Mountain software ("User") in 2023.
 By using the Mountain software, User agrees to be bound by this Agreement.
