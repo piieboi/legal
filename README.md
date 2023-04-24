@@ -1,3 +1,2 @@
-this is something that should be under the company profile but idc
-
-anyway this was all written by ChatGPT since idk how to make legal docs
+# Page for my legal files coming soon...
+this is how i have to organize my legal files for now!
