@@ -1,7 +1,7 @@
-# Terms of Service Agreement for Code Hangover SP
+# Terms of Service Agreement for PieBoi SP
 
 
-The following Terms of Service Agreement ("Agreement") governs the use of the products and services provided by Code Hangover SP (hereinafter "Company"). By using any of the Company's products or services, you agree to be bound by this Agreement.
+The following Terms of Service Agreement ("Agreement") governs the use of the products and services provided by PieBoi SP (hereinafter "Company"). By using any of the Company's products or services, you agree to be bound by this Agreement.
 
 Use of Products and Services: The Company grants you a non-exclusive, non-transferable, limited license to use its products and services for your personal or business use. You agree to use the products and services only for lawful purposes and in accordance with this Agreement.
 
