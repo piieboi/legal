@@ -1,29 +1,29 @@
-# Copyright Agreement for Code Hangover SP for 2023
+# Copyright Agreement for PieBoi SP for 2023
 
 
 ## Purpose:
 
- This agreement is made between Code Hangover SP (hereinafter "Code Hangover") and [You] (hereinafter "User") to protect the Code Hangover's proprietary rights in its intellectual property, including without limitation, software, technology, confidential information, trade secrets, and other proprietary information.
+ This agreement is made between PieBoi SP (hereinafter "Company") and [You] (hereinafter "User") to protect the Company's proprietary rights in its intellectual property, including without limitation, software, technology, confidential information, trade secrets, and other proprietary information.
 
 ## Grant of Copyright: 
 
- User acknowledges that all Proprietary Information, including without limitation all software, technology, confidential information, trade secrets, and other proprietary information, is the sole and exclusive property of the Code Hangover. User agrees to assign to the Code Hangover all right, title, and interest in and to all Proprietary Information developed or created by User during the term of this agreement.
+ User acknowledges that all Proprietary Information, including without limitation all software, technology, confidential information, trade secrets, and other proprietary information, is the sole and exclusive property of the Company. User agrees to assign to the Company all right, title, and interest in and to all Proprietary Information developed or created by User during the term of this agreement.
 
 ## Confidentiality: 
 
- User agrees to hold all Proprietary Information in confidence and not to disclose any such information to any person or entity, except as may be necessary in the course of User's work for the Code Hangover.
+ User agrees to hold all Proprietary Information in confidence and not to disclose any such information to any person or entity, except as may be necessary in the course of User's work for the Company.
 
 ## Term:
 
- This agreement shall remain in effect for the duration of User's employment with the Code Hangover and for a period of 1 years thereafter.
+ This agreement shall remain in effect for the duration of User's employment with the Company and for a period of 1 years thereafter.
 
 ## Termination: 
 
- Upon termination of User's employment with the Code Hangover, User agrees to return to the Code Hangover all Proprietary Information in User's possession, including without limitation all copies, extracts, and derivatives thereof. The User can terminate this agreement and cease the usage of assets, Code Hangover will provide a 30-day grace period before completely terminating this Agreement with the User
+ Upon termination of User's employment with the Company, User agrees to return to the Company all Proprietary Information in User's possession, including without limitation all copies, extracts, and derivatives thereof. The User can terminate this agreement and cease the usage of assets, Company will provide a 30-day grace period before completely terminating this Agreement with the User
 
 ## Remedies: 
 
- User acknowledges that any unauthorized use or disclosure of Proprietary Information would cause irreparable harm to the Code Hangover and that, in the event of any such unauthorized use or disclosure, the Code Hangover shall be entitled to seek immediate injunctive relief, in addition to any other remedies available at law or in equity.
+ User acknowledges that any unauthorized use or disclosure of Proprietary Information would cause irreparable harm to the Company and that, in the event of any such unauthorized use or disclosure, the Company shall be entitled to seek immediate injunctive relief, in addition to any other remedies available at law or in equity.
 
 ## Governing Law: 
 
