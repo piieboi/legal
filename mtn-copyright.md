@@ -1,6 +1,6 @@
-# COPYRIGHT AGREEMENT FOR MOUNTAIN BY CODE HANGOVER
+# COPYRIGHT AGREEMENT FOR MOUNTAIN BY PieBoi
 
-This Copyright Agreement ("Agreement") is made between Code Hangover ("Company"), and the user of the Mountain software ("User") in 2023.
+This Copyright Agreement ("Agreement") is made between PieBoi SP ("Company"), and the user of the Mountain software ("User") in 2023.
 By using the Mountain software, User agrees to be bound by this Agreement.
 
 ### LICENSE GRANT
