@@ -15,11 +15,11 @@
 
 ## Term:
 
- This agreement shall remain in effect for the duration of User's employment with the Company and for a period of 1 years thereafter.
+ This agreement shall remain in effect for the duration of User's usage of the Company's Products and/or Services and for a period of 1 years thereafter.
 
 ## Termination: 
 
- Upon termination of User's employment with the Company, User agrees to return to the Company all Proprietary Information in User's possession, including without limitation all copies, extracts, and derivatives thereof. The User can terminate this agreement and cease the usage of assets, Company will provide a 30-day grace period before completely terminating this Agreement with the User
+ Upon termination of User's usage of the Company's Products and/or Services, User agrees to return to the Company all Proprietary Information in User's possession, including without limitation all copies, extracts, and derivatives thereof. The User can terminate this agreement and cease the usage of assets, Company will provide a 30-day grace period before completely terminating this Agreement with the User
 
 ## Remedies: 
 
@@ -27,7 +27,7 @@
 
 ## Governing Law: 
 
- This agreement shall be governed by and construed in accordance with the laws of the Ohio.
+ This agreement shall be governed by and construed in accordance with the laws of Ohio, United States of America.
 
 ## Entire Agreement:
 
@@ -35,6 +35,4 @@
 
 
 
-## This agreement is valid from January 30th, 2023 until January 30th, 2024.
-
-// Written by ChatGPT-3.5
+#### This agreement is valid from January 30th, 2023 until January 30th, 2024.
